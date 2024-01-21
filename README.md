@@ -1,2 +1,2 @@
 # TikTokScrapping
-I used Python Selenium and BeautifulSoup to scrap TikTok "foryou" page with different IPs from different countries. 
+I used Python with Selenium and BeautifulSoup to scrape TikTok's "For You" page, employing different IP addresses from different countries 
